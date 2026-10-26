@@ -1,0 +1,33 @@
+```gitignore
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# SQLite database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Test and coverage files
+.pytest_cache/
+.coverage
+htmlcov/
+
+# VS Code settings
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+```
